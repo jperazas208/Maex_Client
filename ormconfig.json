@@ -1,0 +1,9 @@
+{
+  "type": "mysql",
+  "host": "67.207.86.20",
+  "username": "devuser",
+  "password": "xQ&!3p4lA17Z",
+  "database": "CCL",
+  "entities": ["dist/entity/**/*.js"],
+  "synchronize": true
+}
